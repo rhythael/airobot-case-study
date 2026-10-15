@@ -1,5 +1,5 @@
 <h1 align="center">airobot — trilingual voice assistant for a vending machine</h1>
-<p align="center">Case study · <a href="#english">English</a> · <a href="#中文">中文</a></p>
+<p align="center">Case study · <a href="#english">English</a> · <a href="#中文">中文</a> · <a href="https://github.com/rhythael/airobot"><b>Source code (sanitised) →</b></a></p>
 <p align="center">
   <img alt="role" src="https://img.shields.io/badge/role-sole%20developer-blue">
   <img alt="period" src="https://img.shields.io/badge/period-Sep%E2%80%93Oct%202026-lightgrey">
@@ -7,8 +7,8 @@
   <img alt="first audio" src="https://img.shields.io/badge/first%20audio-0.4%E2%80%931.1%20s-brightgreen">
 </p>
 
-> This repository is a **case study only**: architecture, decisions and measured results of a project I built for SmartFoodie GmbH, published with the company's agreement. The source code is company-internal and is not included.
-> 本仓库只是**案例说明**：我为 SmartFoodie GmbH 开发的项目的架构、决策与实测结果，经公司同意公开。源码属公司内部，不包含在内。
+> This repository is a **case study only**: architecture, decisions and measured results of a project I built for SmartFoodie GmbH, published with the company's agreement. A sanitised copy of my code is in <a href="https://github.com/rhythael/airobot">rhythael/airobot</a>, published with the company's agreement.
+> 本仓库只是**案例说明**：我为 SmartFoodie GmbH 开发的项目的架构、决策与实测结果，经公司同意公开。脱敏后的源码在 <a href="https://github.com/rhythael/airobot">rhythael/airobot</a>，经公司同意公开。
 
 ---
 
