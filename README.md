@@ -7,7 +7,7 @@
   <img alt="first audio" src="https://img.shields.io/badge/first%20audio-0.4%E2%80%931.1%20s-brightgreen">
 </p>
 
-> This repository is a **case study only**: architecture, decisions and measured results of a project I built for SmartFoodie GmbH, published with the company's agreement. A sanitised copy of my code is in <a href="https://github.com/rhythael/airobot">rhythael/airobot</a>, published with the company's agreement.
+> This repository is a **case study only**: architecture, decisions and measured results of a project I built for SmartFoodie GmbH.
 > 本仓库只是**案例说明**：我为 SmartFoodie GmbH 开发的项目的架构、决策与实测结果。
 
 ---
