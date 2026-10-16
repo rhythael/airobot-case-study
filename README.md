@@ -8,7 +8,7 @@
 </p>
 
 > This repository is a **case study only**: architecture, decisions and measured results of a project I built for SmartFoodie GmbH, published with the company's agreement. A sanitised copy of my code is in <a href="https://github.com/rhythael/airobot">rhythael/airobot</a>, published with the company's agreement.
-> 本仓库只是**案例说明**：我为 SmartFoodie GmbH 开发的项目的架构、决策与实测结果，经公司同意公开。脱敏后的源码在 <a href="https://github.com/rhythael/airobot">rhythael/airobot</a>，经公司同意公开。
+> 本仓库只是**案例说明**：我为 SmartFoodie GmbH 开发的项目的架构、决策与实测结果。
 
 ---
 
