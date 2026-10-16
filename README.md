@@ -53,7 +53,7 @@ ESP32 → self-hosted server (VAD → SenseVoice/Whisper dual ASR → local answ
 macOS private Wi-Fi address rotation made the device lose the server; upstream's streaming extraction dropped the spaces between words (German read as one long word); a shallow-cloned history cannot be archived with git bundle; an OAuth token without the workflow scope cannot push tags that contain Actions files.
 
 ## Stack
-Python 3.10/3.11, asyncio, websockets, sherpa-onnx (SenseVoice / Whisper / Piper / Matcha), Silero VAD, EdgeTTS, OpenAI-compatible API (Volcengine Doubao), FastMCP, httpx, pytest, Docker, systemd, ESP32 (esptool / NVS). Codex and Claude Code were used as coding assistants; the architecture and every design decision are mine and were validated by measurement.
+Python 3.10/3.11, asyncio, websockets, sherpa-onnx (SenseVoice / Whisper / Piper / Matcha), Silero VAD, EdgeTTS, OpenAI-compatible LLM API, FastMCP, httpx, pytest, Docker, systemd, ESP32 (esptool / NVS). Codex and Claude Code were used as coding assistants; the architecture and every design decision are mine and were validated by measurement.
 
 
 ---
@@ -99,4 +99,4 @@ ESP32 → 自建服务端（VAD → SenseVoice/Whisper 双模型识别 → 本�
 Mac 私有 Wi-Fi 地址轮换导致设备找不到服务端；上游 direct_answer 流式提取吃掉词间空格（德语念成一整串）；浅克隆历史不能用 git bundle 归档；OAuth token 缺 workflow scope 推不了含 Actions 的标签。
 
 ## 工具
-Python 3.10/3.11、asyncio、websockets、sherpa-onnx（SenseVoice / Whisper / Piper / Matcha）、Silero VAD、EdgeTTS、OpenAI 兼容 API（火山方舟豆包）、FastMCP、httpx、pytest、Docker、systemd、ESP32（esptool / NVS）。开发过程使用 Codex 与 Claude Code 作为编码辅助，架构与所有设计决策由本人做出并实测验证。
+Python 3.10/3.11、asyncio、websockets、sherpa-onnx（SenseVoice / Whisper / Piper / Matcha）、Silero VAD、EdgeTTS、OpenAI 兼容大模型 API、FastMCP、httpx、pytest、Docker、systemd、ESP32（esptool / NVS）。开发过程使用 Codex 与 Claude Code 作为编码辅助，架构与所有设计决策由本人做出并实测验证。
